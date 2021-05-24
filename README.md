@@ -1,5 +1,4 @@
-👋👨‍💻 Meu nome é Gabriel, tenho 20 anos, estou cursando Análise e Desenvolvimento de Sistemas.
-Estou em busca de uma oportunidade de trabalho na área de TI
+👋👨‍💻 Meu nome é Gabriel, tenho 20 anos, estou cursando Análise e Desenvolvimento de Sistemas e estou em busca de uma oportunidade de trabalho na área de TI.
 
 📚 Estudando HTML5, CSS3, CSS Flexbox, Bootstrap 4 e JavaScript.
 
