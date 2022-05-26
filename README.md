@@ -1,4 +1,4 @@
-👋👨‍💻 Meu nome é Gabriel, tenho 21 anos, Graduado em Análise e Desenvolvimento de Sistemas e estou em busca de uma oportunidade para Desenvolvedor front-end JR.
+👨‍💻 Meu nome é Gabriel, tenho 21 anos, Graduado em Análise e Desenvolvimento de Sistemas e estou em busca de uma oportunidade para Desenvolvedor front-end JR.
 
 📚 Estudando HTML5, CSS3, PHP e Programação orientada a objeto.
 
